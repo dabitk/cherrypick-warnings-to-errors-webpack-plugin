@@ -1,0 +1,13 @@
+{
+  "name": "cherrypick-warnings-to-errors-webpack-plugin",
+  "version": "1.0.0",
+  "description": "A webpack plugin that allows users to choose from which warnings should be shown as errors.",
+  "main": "index.js",
+  "repository": "https://github.com/dabitk/cherrypick-warnings-to-errors-webpack-plugin.git",
+  "author": "dabitk@naver.com",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "webpack": "^2.2.0-rc || ^3 || ^4 || ^5"
+  }
+}
